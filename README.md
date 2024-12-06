@@ -14,5 +14,9 @@ The task is to write a Java program in which a user will get K trials to guess a
 
 #Snapshot
 ![image](https://github.com/user-attachments/assets/decc64eb-4c5c-4bc9-b5d9-c6ade8743c3f)
+![image](https://github.com/user-attachments/assets/d2bed1c4-4e03-459c-801f-a03361011aef)
+![image](https://github.com/user-attachments/assets/9fd1fd1e-e431-4178-97a1-49cbbecb640c)
+
+
 
 
